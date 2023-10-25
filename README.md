@@ -4,6 +4,10 @@
 
 #### This coin is not yet lauched officially there are only test tokens available.This is just for education purpose and for teaching how to create your own cryptocurrency.
 
+
+## Badge NFT Earned
+![image](https://github.com/kunal-nathani/CreateyourownCryptocurrency/assets/48233889/cd09d9a8-411d-45ed-893d-292576eb4d3e)
+
 ## About Gujju Coin
 
 Gujju Coin is a revolutionary cryptocurrency that aims to empower the global Gujarati community and beyond. Built on cutting-edge blockchain technology, Gujju Coin offers secure, fast, and decentralized transactions, making it the preferred digital currency for Gujaratis worldwide.
