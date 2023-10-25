@@ -31,3 +31,18 @@ Gujju Coin is an open-source project, and we encourage developers, designers, an
 
 This project is licensed under the [MIT License](link_to_license). Feel free to use, modify, and distribute Gujju Coin according to the terms of the license.
 
+Set up envOpen a terminal on your machine or utilize an IDE like Visual Studio.Create a directory using the command: mkdir <folder name>. Replace <folder name> with your preferred name of the folder.Go to the created directory using the command: cd <folder name>.Now run the following commands:
+Copy
+
+Copy
+
+Copy
+
+Copy
+
+Copy
+
+Copy
+npm init --yes
+npm install algosdk
+npm list alg
